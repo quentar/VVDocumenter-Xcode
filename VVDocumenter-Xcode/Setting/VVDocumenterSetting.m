@@ -28,7 +28,7 @@
 #import <Carbon/Carbon.h>
 #import "VVProject.h"
 
-NSString *const VVDDefaultTriggerString = @"///";
+NSString *const VVDDefaultTriggerString = @"////";
 NSString *const VVDDefaultAuthorString = @"";
 NSString *const VVDDefaultDateInfomationFormat = @"YY-MM-dd HH:MM:ss";
 
